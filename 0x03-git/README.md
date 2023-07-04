@@ -1,1 +1,1 @@
-Doing the hard things
+First real task "Doing the hard things"
